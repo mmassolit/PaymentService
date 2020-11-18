@@ -12,7 +12,6 @@ import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 
 import com.videosharing.api.dto.PaymentPayload;
-import com.videosharing.model.Ad;
 import com.videosharing.model.Payment;
 import com.videosharing.model.User;
 import com.videosharing.repository.PaymentRepository;
